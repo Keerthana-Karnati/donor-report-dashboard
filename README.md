@@ -1,6 +1,6 @@
 # Donor Report Dashboard: Prototype
 
-A full-stack web application designed for the **Greater Kansas City Community Foundation**. This tool allows staff to manage donor records, search through donor data instantly, and maintain data integrity using a professional-grade tech stack.
+A full-stack web application designed for the **Community Foundation**. This tool allows staff to manage donor records, search through donor data instantly, and maintain data integrity using a professional-grade tech stack.
 
 ## 🚀 Features
 * **Full CRUD Functionality:** Create, Read, and Delete donor records.
