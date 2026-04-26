@@ -21,13 +21,15 @@ A full-stack web application designed for the **Community Foundation**. This too
    git clone <your-repo-url>
    cd donor-report-dashboard
 2. **Start the Backend & Database (Docker):**
+3. ```bash
    docker-compose up --build
-3. **Start the Frontend:**
-   # In a new terminal
+4. **Start the Frontend:**
+   **In a new terminal
+   ```bash
     cd frontend
     npm install
     npm run dev
-4. **Access the App:**
+6. **Access the App:**
     Open http://localhost:5173 in your browser.
 
 by Keerthana 
